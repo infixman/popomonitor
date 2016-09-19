@@ -1,0 +1,14 @@
+{
+   "ForceUpdate": false,
+   "LatestVersion": 100,
+   "EsnSign": "",
+   "EsnAd": "",
+   "ForceShowEsnSign": false,
+   "ForceShowEsnAd": false,
+   "AllCanNotRun": false,
+   "CanNotRun":
+   [
+      "@test",
+      "@qqtest"
+   ]
+}
