@@ -1,6 +1,6 @@
 {
-   "ForceUpdate": false,
-   "LatestVersion": 170,
+   "ForceUpdate": true,
+   "LatestVersion": 180,
    "EsnSign": "|newline|------------------------|newline|商務合作、公益推廣請洽 @EsnChg",
    "EsnAd": "若您喜歡這些資訊，想買{0}給 @EsnChg 就[a href='https://qr.allpay.com.tw/4We3G']按這[/a]買給他",
    "ForceShowEsnSign": false,
